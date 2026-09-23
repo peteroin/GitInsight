@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+frontend/dist/
+DEPLOY_TO_RENDER.md

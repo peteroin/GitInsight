@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# Python
+.venv
+venv
+__pycache__
+*.pyc
+
+# Node
+node_modules
+frontend/dist
+
+# Local secrets
+.env
+
+# Local caches
+.pytest_cache
+.mypy_cache
+.streamlit
